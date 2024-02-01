@@ -15,3 +15,8 @@ Se recomienda crear una organización que sea la propietaria del repositoria pri
 5. 
 
 
+## Creación de fork
+
+Para crear un fork debes iniciar sesion 
+
+
